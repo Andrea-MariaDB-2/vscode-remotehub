@@ -159,7 +159,7 @@
         "vscode:prepublish": "npm run reset && npm run bundle"
     },
     "dependencies": {
-        "@octokit/rest": "16.28.3",
+        "@octokit/rest": "16.43.2",
         "@sourcegraph/lsp-client": "2.0.0-beta.2",
         "fuzzysort": "1.1.4",
         "graphql-request": "1.8.2",
